@@ -1,5 +1,5 @@
 # Introduction👋
-I am Haruya Mizuyoshi.
+I'm Haruya Mizuyoshi.
 
 
 # About me
